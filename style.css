@@ -92,7 +92,7 @@ main{
 
 @media(min-width:1040px){
     main{
-        padding:5% 0;
+        padding:5% 0 0 0;
         width:90%;
         margin:0 auto;
         height:100vh;
@@ -119,6 +119,7 @@ main{
 
     .ratings{
         width:60%;
+        margin:0 0 0 10%;
     }
 
     .rating-box{
@@ -166,6 +167,8 @@ main{
         display: flex;
         padding:0 auto;
         width:100%;
+        position:relative;
+        top:100px;
     }
     .user-box{
         display: inline-block;
