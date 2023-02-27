@@ -10,6 +10,7 @@ body{
 
 main{
     margin:0 auto;
+    width:80%;
 }
 
 .topic{
@@ -188,9 +189,3 @@ main{
         top:20px;
     }
 }
-
-/* @media(min-width:100px){
-    main{
-        width:80%;
-    }
-} */
