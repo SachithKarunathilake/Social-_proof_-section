@@ -93,7 +93,7 @@ main{
 @media(min-width:1040px){
     main{
         padding:5% 0 0 0;
-        width:90%;
+        width:80%;
         margin:0 auto;
         height:100vh;
     }
@@ -168,7 +168,7 @@ main{
         padding:0 auto;
         width:100%;
         position:relative;
-        top:100px;
+        top:80px;
     }
     .user-box{
         display: inline-block;
